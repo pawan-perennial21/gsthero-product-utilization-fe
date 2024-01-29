@@ -1,0 +1,17 @@
+// rfs import
+@import "../node_modules/rfs/scss.scss";
+
+// variables and functions
+@import "./_gstVariables";
+
+// base and layot
+@import "./breakpoints";
+@import "./mixins";
+@import "./grid";
+@import "./sizes";
+
+//colors
+@import "./gstColors";
+
+//utils(margin,padding,opacity)
+@import "./utilities";

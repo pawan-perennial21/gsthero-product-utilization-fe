@@ -1,0 +1,3 @@
+[submodule "modules"]
+	path = modules
+	url = https://bitbucket.org/perennialsys/react-component-submodules.git
